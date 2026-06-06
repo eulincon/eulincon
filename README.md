@@ -94,12 +94,6 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linconsilva08@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eulincon&show_icons=true&theme=radical&line_height=33&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulincon&layout=compact&theme=radical&langs_count=6&card_width=250">
-</p>
-
 <!--
 **zlincon/zlincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -112,4 +106,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='badges/cloudsec_zupit.png' alt='badges/cloudsec_zupit.png' width='160px' />
