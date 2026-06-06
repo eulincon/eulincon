@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="welcome" />
 </p>
 
-# Lincon Brito (eulincon)
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 My name is Lincon Brito from Brazil (🇧🇷). I've been working as Full-Stack Web Developer. I'm passionate about open source projects, and I've always loved to produce a lot of content during my beginning career.
