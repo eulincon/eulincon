@@ -4,15 +4,15 @@
 
 # Lincon Brito (eulincon)
 
-Olá — sou Lincon Brito, desenvolvedor Full‑Stack do Brasil (🇧🇷). Trabalho com React.js e Java (Spring) e gosto de contribuir em projetos open source e criar conteúdo técnico.
+Hi there — I'm Lincon Brito, a Full-Stack Web Developer from Brazil (🇧🇷). I'm passionate about React.js and Java Spring development, and I love contributing to open-source projects and creating technical content.
 
-- 🌱 Estudando: Java Spring, React.js e Python
-- 🔭 Projetos: aplicações web com React + Spring
-- ⚡ Curiosidades: futebol, filmes, leitura e música
+- 🌱 Currently learning: Java Spring, React.js, and Python
+- 🔭 Working on: web applications with React + Spring
+- ⚡ Fun facts: soccer, movies, reading, and music
 
 ---
 
-## Projetos selecionados
+## Featured projects
 - Game Survey — https://game-survey-sds1.netlify.app (React & Spring)
 - DS Delivery — https://sds2-dsdeliver.netlify.app (React & Spring)
 - DSMovie — https://dsmovie-lincon.netlify.app/
@@ -21,11 +21,11 @@ Olá — sou Lincon Brito, desenvolvedor Full‑Stack do Brasil (🇧🇷). Trab
 - Move It — https://moveit-nlw4-gules.vercel.app/
 - Hacker Chat — https://www.npmjs.com/package/@zlincon/hacker-chat-client
 
-Visite meu portfólio: https://eulincon.github.io
+Visit my portfolio: https://eulincon.github.io
 
 ---
 
-## Tecnologias e ferramentas
+## Languages and tools
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
@@ -36,8 +36,8 @@ Visite meu portfólio: https://eulincon.github.io
 
 ---
 
-## Contato
-[LinkedIn](https://www.linkedin.com/in/zlincon) — [Portfólio](https://eulincon.github.io)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/zlincon) — [Portfolio](https://eulincon.github.io)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eulincon&show_icons=true&theme=radical&line_height=33&count_private=true" alt="github stats">
