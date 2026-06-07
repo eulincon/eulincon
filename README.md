@@ -12,18 +12,6 @@ I design and operate **event-driven microservices** and **distributed systems** 
 
 ---
 
-### About me
-
-My name is Lincon Brito from Brazil (🇧🇷). I've been working as a Full-Stack Web Developer. I'm passionate about open source projects, and I've always loved to produce a lot of content during my beginning career.
-
-In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
-
-- 🌱 I’m currently learning Java Spring, React.js and Python.
-- Tinkering with interactions on [Codepen](https://codepen.io/zlincon) 🏓
-- Generation of software developers to change the world with code.
-
----
-
 ### Core Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
